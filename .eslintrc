@@ -1,0 +1,11 @@
+{
+    "extends": "standard",
+    "plugins": [
+        "html"
+    ],
+    "parser": "babel-eslint",
+    "rules": {
+        "no-new": "off",
+        "注释：允许使用new关键字": ""
+    }
+}

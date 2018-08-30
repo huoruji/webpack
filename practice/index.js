@@ -1,0 +1,6 @@
+// import './instance'
+// import './lifecycle'
+// import './data-binding'
+// import './define'
+// import './extend'
+import './v-model/slot'
